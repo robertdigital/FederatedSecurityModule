@@ -1,17 +1,43 @@
+#Customized from High level file
+#https://github.com/honeytrap/honeytrap/blob/master/config.toml.sample
+
 [listener]
 type="agent"
 
+#configure SSH on port 8022
 [[port]]
 port="tcp/8022"
 services=["ssh-simulator"]
+
+#configure Telnet on port 23
+[[port]]
+port="tcp/23"
+services=["telnet"]
+
+#configure FTP on port 21
+[[port]]
+port="tcp/21"
+services=["ftp"]
 
 [service.ssh-simulator]
 type="ssh-simulator"
 credentials=["root:root", "root:password"]
 
+[service.telnet]
+type="telnet"
+banner="test"
+canary="true"
+
+[service.ftp]
+type="ftp"
+banner="Welcome to FTPd"
+name="FTPd"
+fs_base="/tmp"
+
 [channel.console]
 type="console"
 
+#Logging to FMSRV ELK Stack
 [channel.elasticsearch]
 type="elasticsearch"
 url="https://192.168.1.103:9201/honeytrap"
@@ -25,3 +51,4 @@ channel=["console", "elasticsearch"]
 [[logging]]
 output = "stdout"
 level = "debug"
+
