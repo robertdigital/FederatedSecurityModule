@@ -4,4 +4,4 @@ This is the project web repository for my Integration Project at Athabasca Unive
 
 For an overview of the project, please see
 
-[COMP697 Project Proposal](./Project Proposal.pdf)
+[COMP697 Project Proposal](https://github.com/PurpleBooth)
