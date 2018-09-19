@@ -1,4 +1,6 @@
 To run scripts use the following commands:
+# go to /trap directory
+cd /trap
 # download the docker containers
 sudo docker-compose -f ./docker-compose-honeytrap.yml pull
 # start docker
