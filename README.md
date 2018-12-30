@@ -50,9 +50,9 @@ The following repositories have been forked to provide source code for the vario
 
 ## Project Reports
 
-[COMP697 Project Proposal](Project%20Proposal.pdf)
+[COMP697 Project Proposal](./reports/Project%20Proposal.pdf)
 
-[COMP698 Interim Report](Interim%20Report.pdf)
+[COMP698 Interim Report](./reports/Interim%20Report.pdf)
 
 [COMP699 Final Report]()
 
