@@ -12,11 +12,15 @@ Computer Security is an intense flash point of concern in the modern computer la
 
 ## Prototype Lab Network Diagram
 
+This diagram provides a high level overview of the network layout which was used for this project.
+
 ![Prototype Lab Network Diagram](./diagrams/Actual_Network_Setup_V4.svg "Prototype Lab Network Diagram")
 
 ## Security Tools Network Layout
 
-![Security Tool Location Diagram](./diagrams/Actual_Network_Setup_V4.svg "Security Tool Location Diagram")
+This diagram shows which hosts different security tools are located on within the network.
+
+![Security Tool Location Diagram](./diagrams/Security Software Setup.svg "Security Tool Location Diagram")
 
 ## Forked Software Repositories
 
