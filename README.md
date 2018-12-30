@@ -20,7 +20,7 @@ This diagram provides a high level overview of the network layout which was used
 
 This diagram shows which hosts different security tools are located on within the network.
 
-![Security Tool Location Diagram](./diagrams/Security Software Setup.svg "Security Tool Location Diagram")
+![Security Tool Location Diagram](./diagrams/Security%20Software%20Setup.svg "Security Tool Location Diagram")
 
 ## Forked Software Repositories
 
