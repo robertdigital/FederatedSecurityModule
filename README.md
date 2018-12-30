@@ -1,8 +1,8 @@
 # FederatedSecurityModule
 
-This is the project web repository for my [Integration Project](https://www.athabascau.ca/syllabi/comp/comp697_698_699syllabus.php) at [Athabasca University](https://www.athabascau.ca/).  It will serve as a central repository of project documents, deliverables, and source code.
+Public project web repository for an [Integration Project](https://www.athabascau.ca/syllabi/comp/comp697_698_699syllabus.php) at [Athabasca University](https://www.athabascau.ca/).  This will serve as the official central repository of project documents, deliverables, and source code.
 
-## Student Contact
+## Student
 
 Wade W. Wesolowsky &lt;wadew@false.ca&gt;
 
