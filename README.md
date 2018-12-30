@@ -4,7 +4,7 @@ This is the project web repository for my [Integration Project](https://www.atha
 
 ## Student Contact
 
-Wade W. Wesolowsky &lt;wadew@false.ca&rt;
+Wade W. Wesolowsky &lt;wadew@false.ca&gt;
 
 ## Project Overview
 
