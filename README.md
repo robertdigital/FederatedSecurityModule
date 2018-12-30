@@ -14,9 +14,27 @@ Computer Security is an intense flash point of concern in the modern computer la
 
 The following repositories have been forked to provide source code for the various tools used in this research project.  They are provided here as a static reference point.  Many of the tools used in this project are under active development and are changing on a constant basis.
 
+- [APT_CyberCriminal_Campagin_Collections](https://github.com/rndrev/APT_CyberCriminal_Campagin_Collections)
+- [APTSimulator](https://github.com/rndrev/APTSimulator)
+- [Bro / Zeek](https://github.com/rndrev/bro)
+- [Elasticsearch](https://github.com/rndrev/elasticsearch)
+- [FlightSim](https://github.com/rndrev/flightsim)
+- [Honeytrap](https://github.com/rndrev/honeytrap)
+- [Honeytrap Configs](https://github.com/rndrev/honeytrap-configs)
+- [Honeytrap Docs](https://github.com/rndrev/honeytrap-docs)
+- [Kibana](https://github.com/rndrev/kibana)
+- [Logstash](https://github.com/rndrev/logstash)
+- [Pfsense](https://github.com/rndrev/pfsense)
+- [Pfsense Docs](https://github.com/rndrev/docs)
+- [Snort3](https://github.com/rndrev/snort3)
+- [Snort FAQ](https://github.com/rndrev/snort-faq)
 - [Sweet Security](https://github.com/rndrev/SweetSecurity)
-- 
-
+- [Sysmon-Config](https://github.com/rndrev/sysmon-config)
+- [Wazuh](https://github.com/rndrev/wazuh)
+- [Wazuh-API](https://github.com/rndrev/wazuh-api)
+- [Wazuh Documentation](https://github.com/rndrev/wazuh-documentation)
+- [Wazuh Kibana App](https://github.com/rndrev/wazuh-kibana-app)
+- [Wazuh Ruleset](https://github.com/rndrev/wazuh-ruleset)
 
 ## Project Reports
 
