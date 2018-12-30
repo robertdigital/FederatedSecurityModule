@@ -46,4 +46,4 @@ The following repositories have been forked to provide source code for the vario
 
 ### Disclaimer
 
-This is an active research project which I am currently working on.  All information is provided "AS IS" and may change without notice.  I have provided these resources in case the community wants to give me any feedback.
+This is an active research project which I am currently working on.  All information is provided "AS IS" and may change without notice.  I have provided this resource for the purposes of feedback and public dissemination of my research ideas.
