@@ -1,14 +1,11 @@
 # FederatedSecurityModule
 
-This is the project web repository for my Integration Project at Athabasca University.  It will serve as a central repository of project documents, deliverables, and source code.
+This is the project web repository for my [Integration Project](https://www.athabascau.ca/syllabi/comp/comp697_698_699syllabus.php) at [Athabasca University](https://www.athabascau.ca/).  It will serve as a central repository of project documents, deliverables, and source code.
 
-For an overview of the project, please see:
+## Project Reports
 
 [COMP697 Project Proposal](Project%20Proposal.pdf)
 
 [COMP698 Interim Report](Interim%20Report.pdf)
 
 [COMP699 Final Report]()
-
-Reference example:
-[Code Sample](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
