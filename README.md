@@ -2,9 +2,9 @@
 
 This is the project web repository for my [Integration Project](https://www.athabascau.ca/syllabi/comp/comp697_698_699syllabus.php) at [Athabasca University](https://www.athabascau.ca/).  It will serve as a central repository of project documents, deliverables, and source code.
 
-## Contact
+## Student Contact
 
-Wade W. Wesolowsky &lt;wadew@false.ca
+Wade W. Wesolowsky &lt;wadew@false.ca&rt;
 
 ## Project Overview
 
