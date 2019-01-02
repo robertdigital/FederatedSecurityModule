@@ -1,7 +1,5 @@
 # A Federated Approach to Identifying and Removing Advanced Persistent Security Threats on Enterprise Computer Networks
 
-# FederatedSecurityModule (FSM)
-
 Public project web repository for an [Integration Project](https://www.athabascau.ca/syllabi/comp/comp697_698_699syllabus.php) at [Athabasca University](https://www.athabascau.ca/).  This will serve as the official central repository of project documents, deliverables, and source code.
 
 ## Student
