@@ -26,6 +26,8 @@ This diagram shows which hosts different security tools are located on within th
 
 The following repositories have been forked to provide source code for the various tools used in this research project.  They are provided here as a static reference point.  Many of the tools used in this project are under active development and are changing on a constant basis.
 
+
+
 - [APT_CyberCriminal_Campagin_Collections](https://github.com/rndrev/APT_CyberCriminal_Campagin_Collections)
 - [APTSimulator](https://github.com/rndrev/APTSimulator)
 - [Bro / Zeek](https://github.com/rndrev/bro)
@@ -35,6 +37,7 @@ The following repositories have been forked to provide source code for the vario
 - [Honeytrap Configs](https://github.com/rndrev/honeytrap-configs)
 - [Honeytrap Docs](https://github.com/rndrev/honeytrap-docs)
 - [Kibana](https://github.com/rndrev/kibana)
+- [Kibana Sample Plugin](https://github.com/rndrev/kibana_sample_plugin)
 - [Logstash](https://github.com/rndrev/logstash)
 - [Pfsense](https://github.com/rndrev/pfsense)
 - [Pfsense Docs](https://github.com/rndrev/docs)
@@ -42,6 +45,7 @@ The following repositories have been forked to provide source code for the vario
 - [Snort FAQ](https://github.com/rndrev/snort-faq)
 - [Sweet Security](https://github.com/rndrev/SweetSecurity)
 - [Sysmon-Config](https://github.com/rndrev/sysmon-config)
+- [tr-k4p-clock](https://github.com/rndrev/tr-k4p-clock)
 - [Wazuh](https://github.com/rndrev/wazuh)
 - [Wazuh-API](https://github.com/rndrev/wazuh-api)
 - [Wazuh Documentation](https://github.com/rndrev/wazuh-documentation)
@@ -61,5 +65,11 @@ The following repositories have been forked to provide source code for the vario
 This is an active research project which I am currently working on.  All information is provided "AS IS" and may change without notice.  I have provided this resource for the purposes of feedback and public dissemination of my research ideas.
 
 ### Helpful Links
+[AngularJS](https://angularjs.org/)
 
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+
+[RequireJS](https://requirejs.org/docs/start.html)
+
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
+
