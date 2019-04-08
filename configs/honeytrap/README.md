@@ -1,7 +1,8 @@
 # Combined scripts
+To run scripts use the following commands:
 sudo sh run_honeytrap.sh
 
-To run scripts use the following commands:
+
 # go to /trap directory
 cd /trap
 # download the docker containers
