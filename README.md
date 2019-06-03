@@ -76,6 +76,10 @@ This is an active research project which I am currently working on.  All informa
 
 [Kibana knowledge share](https://github.com/nreese/kibana-plugin-notes)
 
+[React Component](https://reactjs.org/docs/react-component.html)
+
 [RequireJS](https://requirejs.org/docs/start.html)
+
+[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
