@@ -67,9 +67,14 @@ This is an active research project which I am currently working on.  All informa
 ### Helpful Links
 [AngularJS](https://angularjs.org/)
 
+[Elasticsearch 6.x Cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/#es6)
+
+[HapiJS](https://hapijs.com/api/17.1.0)
+
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+
+[Kibana knowledge share](https://github.com/nreese/kibana-plugin-notes)
 
 [RequireJS](https://requirejs.org/docs/start.html)
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
-
