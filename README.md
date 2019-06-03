@@ -68,6 +68,8 @@ This is an active research project which I am currently working on.  All informa
 
 [Elasticsearch 6.x Cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/#es6)
 
+[Elastic UI - Tables](https://elastic.github.io/eui/#/display/tables)
+
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 [HapiJS](https://hapijs.com/api/17.1.0)
