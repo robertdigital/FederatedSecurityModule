@@ -26,8 +26,6 @@ This diagram shows which hosts different security tools are located on within th
 
 The following repositories have been forked to provide source code for the various tools used in this research project.  They are provided here as a static reference point.  Many of the tools used in this project are under active development and are changing on a constant basis.
 
-
-
 - [APT_CyberCriminal_Campagin_Collections](https://github.com/rndrev/APT_CyberCriminal_Campagin_Collections)
 - [APTSimulator](https://github.com/rndrev/APTSimulator)
 - [Bro / Zeek](https://github.com/rndrev/bro)
@@ -38,6 +36,7 @@ The following repositories have been forked to provide source code for the vario
 - [Honeytrap Docs](https://github.com/rndrev/honeytrap-docs)
 - [Kibana](https://github.com/rndrev/kibana)
 - [Kibana Sample Plugin](https://github.com/rndrev/kibana_sample_plugin)
+- [kibana-plugin-notes](https://github.com/rndrev/kibana-plugin-notes)
 - [Logstash](https://github.com/rndrev/logstash)
 - [Pfsense](https://github.com/rndrev/pfsense)
 - [Pfsense Docs](https://github.com/rndrev/docs)
@@ -69,9 +68,9 @@ This is an active research project which I am currently working on.  All informa
 
 [Elasticsearch 6.x Cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/#es6)
 
-[HapiJS](https://hapijs.com/api/17.1.0)
-
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+
+[HapiJS](https://hapijs.com/api/17.1.0)
 
 [Kibana knowledge share](https://github.com/nreese/kibana-plugin-notes)
 
