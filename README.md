@@ -64,7 +64,10 @@ The following repositories have been forked to provide source code for the vario
 This is an active research project which I am currently working on.  All information is provided "AS IS" and may change without notice.  I have provided this resource for the purposes of feedback and public dissemination of my research ideas.
 
 ### Helpful Links
+
 [AngularJS](https://angularjs.org/)
+
+[API Reference (Elastic JavaScript)](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html)
 
 [Elasticsearch 6.x Cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/#es6)
 
@@ -74,7 +77,11 @@ This is an active research project which I am currently working on.  All informa
 
 [HapiJS](https://hapijs.com/api/17.1.0)
 
+[JavaScript Object Notation](https://www.json.org/)
+
 [Kibana knowledge share](https://github.com/nreese/kibana-plugin-notes)
+
+[Query Domain Specific Language (DSL)](https://www.elastic.co/guide/en/elasticsearch/reference/6.7/query-dsl.html)
 
 [React Component](https://reactjs.org/docs/react-component.html)
 
