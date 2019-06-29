@@ -91,4 +91,6 @@ This is an active research project which I am currently working on.  All informa
 
 [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
+[Using react-router with EUI](https://github.com/elastic/eui/blob/master/wiki/react-router.md#using-react-router-with-eui)
+
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
