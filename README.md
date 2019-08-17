@@ -1,4 +1,4 @@
-# A Federated Approach to Identifying and Removing Advanced Persistent Security Threats on Enterprise Computer Networks
+# A Federated Approach to Identifying Advanced Persistent Security Threats on Enterprise Computer Networks
 
 Public project web repository for an [Integration Project](https://www.athabascau.ca/syllabi/comp/comp697_698_699syllabus.php) at [Athabasca University](https://www.athabascau.ca/).  This will serve as the official central repository of project documents, deliverables, and source code.
 
@@ -24,7 +24,13 @@ This diagram provides a high level overview of the network layout which was used
 
 This diagram shows which hosts different security tools are located on within the network.
 
-![Security Tool Location Diagram](./diagrams/Security%20Software%20Setup.svg "Security Tool Location Diagram")
+![Security Tools Network Layout Diagram](./diagrams/Security%20Software%20Setup.svg "Security Tools Network Layout Diagram")
+
+## FSM Kibana Plugin System Overview Diagram
+
+This diagram shows how the FSM Kibana plugin works from a high level.
+
+![FSM Plugin System Overview](./diagrams/System_Overview_v2.svg "FSM Kibana Plugin System Overview Diagram")
 
 ## Forked Software Repositories
 
