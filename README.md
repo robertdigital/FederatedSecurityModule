@@ -40,6 +40,7 @@ The following repositories have been forked to provide source code for the vario
 - [APTSimulator](https://github.com/rndrev/APTSimulator)
 - [Bro / Zeek](https://github.com/rndrev/bro)
 - [Elasticsearch](https://github.com/rndrev/elasticsearch)
+- [Elasticsearch-py](https://github.com/rndrev/elasticsearch-py)
 - [FlightSim](https://github.com/rndrev/flightsim)
 - [Honeytrap](https://github.com/rndrev/honeytrap)
 - [Honeytrap Configs](https://github.com/rndrev/honeytrap-configs)
