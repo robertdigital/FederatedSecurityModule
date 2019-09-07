@@ -96,6 +96,8 @@ This is an active research project which I am currently working on.  All informa
 
 [Query Domain Specific Language (DSL)](https://www.elastic.co/guide/en/elasticsearch/reference/6.7/query-dsl.html)
 
+[Python Elasticsearch API 6.3.1](https://elasticsearch-py.readthedocs.io/en/6.3.1/api.html)
+
 [React Component](https://reactjs.org/docs/react-component.html)
 
 [RequireJS](https://requirejs.org/docs/start.html)
