@@ -32,6 +32,13 @@ This diagram shows how the FSM Kibana plugin works from a high level.
 
 ![FSM Plugin System Overview](./diagrams/System_Overview_v2.svg "FSM Kibana Plugin System Overview Diagram")
 
+## Project Software Repositories
+
+[APT Hunter](https://github.com/rndrev/apthunter)
+[Federated Security Module Plugin (fsm_plugin)](https://github.com/rndrev/fsm_plugin)
+[HoneyTrap Configuration Files](https://github.com/rndrev/FederatedSecurityModule/tree/master/configs/honeytrap)
+[OSSEC Configuration File](https://github.com/rndrev/FederatedSecurityModule/blob/master/configs/ossec.conf)
+
 ## Forked Software Repositories
 
 The following repositories have been forked to provide source code for the various tools used in this research project.  They are provided here as a static reference point.  Many of the tools used in this project are under active development and are changing on a constant basis.
@@ -67,6 +74,8 @@ The following repositories have been forked to provide source code for the vario
 [COMP697 Project Proposal](./reports/Project%20Proposal.pdf)
 
 [COMP698 Interim Report](./reports/Interim%20Report.pdf)
+
+[Oral Presentation Google Slides]()
 
 [COMP699 Final Report (DRAFT) ]()
 
