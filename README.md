@@ -109,6 +109,8 @@ This is an active research project which I am currently working on.  All informa
 
 [Python Elasticsearch API 6.3.1](https://elasticsearch-py.readthedocs.io/en/6.3.1/api.html)
 
+[Python Documentation](https://docs.python.org/)
+
 [React Component](https://reactjs.org/docs/react-component.html)
 
 [RequireJS](https://requirejs.org/docs/start.html)
