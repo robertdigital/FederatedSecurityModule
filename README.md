@@ -75,9 +75,9 @@ The following repositories have been forked to provide source code for the vario
 
 [COMP698 Interim Report](./reports/Interim%20Report.pdf)
 
-[Oral Presentation Google Slides]()
-
 [COMP699 Final Report (DRAFT) ]()
+
+[Oral Presentation Google Slides]()
 
 ### Disclaimer
 
