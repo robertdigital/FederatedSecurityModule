@@ -97,6 +97,8 @@ This is an active research project which I am currently working on.  All informa
 
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
+[Google's Python Class](https://developers.google.com/edu/python/)
+
 [HapiJS](https://hapijs.com/api/17.1.0)
 
 [JavaScript Object Notation](https://www.json.org/)
