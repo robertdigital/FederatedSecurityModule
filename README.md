@@ -59,6 +59,7 @@ The following repositories have been forked to provide source code for the vario
 - [Logstash](https://github.com/rndrev/logstash)
 - [Pfsense](https://github.com/rndrev/pfsense)
 - [Pfsense Docs](https://github.com/rndrev/docs)
+- [SIGMA UI](https://github.com/rndrev/SigmaUI)
 - [Snort3](https://github.com/rndrev/snort3)
 - [Snort FAQ](https://github.com/rndrev/snort-faq)
 - [Sweet Security](https://github.com/rndrev/SweetSecurity)
