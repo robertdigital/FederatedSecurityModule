@@ -49,6 +49,7 @@ The following repositories have been forked to provide source code for the vario
 - [Elasticsearch](https://github.com/rndrev/elasticsearch)
 - [Elasticsearch-py](https://github.com/rndrev/elasticsearch-py)
 - [FlightSim](https://github.com/rndrev/flightsim)
+- [HELK - The Hunting ELK](https://github.com/rndrev/helk)
 - [Honeytrap](https://github.com/rndrev/honeytrap)
 - [Honeytrap Configs](https://github.com/rndrev/honeytrap-configs)
 - [Honeytrap Docs](https://github.com/rndrev/honeytrap-docs)
