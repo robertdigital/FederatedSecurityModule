@@ -34,6 +34,8 @@ This diagram shows how the FSM Kibana plugin works from a high level.
 
 ## Project Software Repositories
 
+The following repositories are some software and configuration files used in my project.
+
 - [APT Hunter](https://github.com/rndrev/apthunter)
 - [Federated Security Module Plugin (fsm_plugin)](https://github.com/rndrev/fsm_plugin)
 - [HoneyTrap Configuration Files](https://github.com/rndrev/FederatedSecurityModule/tree/master/configs/honeytrap)
