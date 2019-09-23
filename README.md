@@ -34,10 +34,10 @@ This diagram shows how the FSM Kibana plugin works from a high level.
 
 ## Project Software Repositories
 
-[APT Hunter](https://github.com/rndrev/apthunter)
-[Federated Security Module Plugin (fsm_plugin)](https://github.com/rndrev/fsm_plugin)
-[HoneyTrap Configuration Files](https://github.com/rndrev/FederatedSecurityModule/tree/master/configs/honeytrap)
-[OSSEC Configuration File](https://github.com/rndrev/FederatedSecurityModule/blob/master/configs/ossec.conf)
+- [APT Hunter](https://github.com/rndrev/apthunter)
+- [Federated Security Module Plugin (fsm_plugin)](https://github.com/rndrev/fsm_plugin)
+- [HoneyTrap Configuration Files](https://github.com/rndrev/FederatedSecurityModule/tree/master/configs/honeytrap)
+- [OSSEC Configuration File](https://github.com/rndrev/FederatedSecurityModule/blob/master/configs/ossec.conf)
 
 ## Forked Software Repositories
 
