@@ -80,7 +80,7 @@ The following repositories have been forked to provide source code for the vario
 
 [COMP698 Interim Report](./reports/Interim%20Report.pdf)
 
-[COMP699 Final Report](./reports/FINAL_PROJECT_REPORT.pdf)
+[COMP699 Final Report](./reports/Final_Project_Report.pdf)
 
 [Oral Presentation Google Slides]()
 
