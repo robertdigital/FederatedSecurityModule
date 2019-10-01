@@ -82,7 +82,7 @@ The following repositories have been forked to provide source code for the vario
 
 [COMP699 Final Report](./reports/Final_Project_Report.pdf)
 
-[Oral Presentation Google Slides]()
+[Oral Presentation Google Slides](https://docs.google.com/presentation/d/1x7sJuR4hnM9HCsb8os3lmCvUd5KVoJylglOv998ewo0/edit?usp=sharing)
 
 ### Disclaimer
 
