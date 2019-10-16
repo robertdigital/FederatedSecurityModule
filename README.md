@@ -94,6 +94,8 @@ This is an active research project which I am currently working on.  All informa
 
 [API Reference (Elastic JavaScript)](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html)
 
+[Developing new Kibana Visualizations](https://www.elastic.co/blog/developing-new-kibana-visualizations)
+
 [Elasticsearch client library for Node.js](https://github.com/elastic/elasticsearch-js)
 
 [Elasticsearch 6.x Cheatsheet](http://elasticsearch-cheatsheet.jolicode.com/#es6)
